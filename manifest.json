@@ -1,0 +1,25 @@
+{
+  "name": "Qu'est-ce qu'il y a dans mon armoire ?",
+  "short_name": "Mon Armoire",
+  "description": "Gère tes vêtements et chaussures",
+  "start_url": "./armoire-app.html",
+  "display": "standalone",
+  "background_color": "#FAF6EF",
+  "theme_color": "#C8843A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "./"
+}
